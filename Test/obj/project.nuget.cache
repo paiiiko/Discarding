@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8C0wkomI3VqJOuTFzYxmrEqoGbk12U9Ss5E8SIxUgnoJewLfFe1LKklQALcbi77MhwikB5OyYJuPTZk7qaFLeg==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\C#\\задания\\Discarding\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paiiiko\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
